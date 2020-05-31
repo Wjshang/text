@@ -69,3 +69,5 @@ for epoch in range(num_epo):
 
 print(true_b,b)
 print(true_w,w)
+
+#ok
