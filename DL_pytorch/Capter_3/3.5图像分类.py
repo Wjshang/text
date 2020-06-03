@@ -19,7 +19,7 @@ feature,label = mnist_train[1]
 print(feature.shape,label)
 '''
 
-
+#123
 #数值与标签
 def get_fashion_mnist_labels(labels):
         text_labels = ['t-shirt', 'trouser', 'pullover', 'dress', 'coat','sandal', 'shirt', 'sneaker', 'bag', 'ankle boot']
